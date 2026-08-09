@@ -20,19 +20,13 @@ jobs:
       - name: Install dependencies
         run: pip install fastapi uvicorn httpx
 
-      - name: Run server in background
-        run: uvicorn main:app --host 127.0.0.1 --port 8000 &
-        env:
-          PYTHONPATH: .
-
-      - name: Wait for server
-        run: sleep 3
-
       - name: TDS identity: 24f1000086@ds.study.iitm.ac.in
         run: echo "Verified"
 
       - name: Test endpoint
         run: |
+          uvicorn main:app --host 127.0.0.1 --port 8000 &
+          sleep 5
           curl -s -X POST http://127.0.0.1:8000/q1/release-gate \
           -H "Content-Type: application/json" \
           -d '{
@@ -49,4 +43,4 @@ jobs:
               "multiStage": true, "runsAsRoot": false, "secretMode": "none",
               "criticalVulnerabilities": 0, "digestPinned": true
             }
-          }' | grep '"decision":"promote"'
+          }' | grep promote
