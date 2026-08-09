@@ -1,0 +1,1442 @@
+[
+ {
+  "url": "https://data.waterworks.example/notices/audit-793.pdf",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 24",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://data.waterworks.example/open-data/audit-975.pdf",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 11",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://docs.waterworks.example/open-data/audit-425.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 26",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://waterworks.example/notices/audit-406.pdf",
+  "host": "waterworks.example",
+  "title": "District audit summary 12",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2025
+ },
+ {
+  "url": "https://data.waterworks.example/reports/audit-332.pdf",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 14",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://data.waterworks.example/notices/audit-749.pdf",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 23",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://waterworks.example/reports/audit-900.pdf",
+  "host": "waterworks.example",
+  "title": "District audit summary 8",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://docs.waterworks.example/notices/audit-557.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 7",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://legacy.waterworks.example/open-data/audit-7912.csv",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 88",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "csv",
+  "year": 2023
+ },
+ {
+  "url": "https://data.waterworks.example/reports/audit-6000.pdf",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 93",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2016
+ },
+ {
+  "url": "https://data.waterworks.example/archive/audit-5101.pdf",
+  "host": "data.waterworks.example",
+  "title": "District summary 38",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://docs.waterworks.example/reports/audit-7001.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 72",
+  "body": "Prepared for review. Contains the tender totals only.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://waterworks.example/drafts/audit-4938.pdf",
+  "host": "waterworks.example",
+  "title": "District audit summary 99",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2025
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/notices/audit-7463.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "District audit summary 76",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/audit-6733.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 49",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/audit-4953.html",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 41",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "html",
+  "year": 2025
+ },
+ {
+  "url": "https://waterworks.example/reports/audit-5350.pdf",
+  "host": "waterworks.example",
+  "title": "District audit summary 62",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2021
+ },
+ {
+  "url": "https://waterworks.example/reports/audit-4083.pdf",
+  "host": "waterworks.example",
+  "title": "District summary 10",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://data.waterworks.example/notices/audit-4637.pdf",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 69",
+  "body": "Prepared for review. Contains the tender totals only.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://docs.waterworks.example/drafts/audit-6324.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 64",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/reports/audit-8318.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "District audit summary 41",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/audit-2479.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 74",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://docs.waterworks.example/reports/audit-5685.html",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 76",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "html",
+  "year": 2025
+ },
+ {
+  "url": "https://docs.waterworks.example/reports/audit-6533.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 63",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2021
+ },
+ {
+  "url": "https://waterworks.example/notices/audit-5614.pdf",
+  "host": "waterworks.example",
+  "title": "District summary 13",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://legacy.waterworks.example/notices/audit-7811.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 66",
+  "body": "Prepared for review. Contains the tender totals only.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://docs.waterworks.example/drafts/audit-6167.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 41",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/archive/audit-8728.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "District audit summary 66",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/audit-2575.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 74",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://legacy.waterworks.example/open-data/audit-4965.html",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 57",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "html",
+  "year": 2025
+ },
+ {
+  "url": "https://waterworks.example/open-data/audit-7784.pdf",
+  "host": "waterworks.example",
+  "title": "District audit summary 78",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2015
+ },
+ {
+  "url": "https://legacy.waterworks.example/open-data/audit-7402.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District summary 23",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://docs.waterworks.example/reports/audit-7697.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 44",
+  "body": "Prepared for review. Contains the tender totals only.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://waterworks.example/drafts/audit-5342.pdf",
+  "host": "waterworks.example",
+  "title": "District audit summary 53",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/open-data/audit-1162.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "District audit summary 42",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/audit-6355.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 63",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://legacy.waterworks.example/open-data/audit-6153.csv",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 46",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "csv",
+  "year": 2022
+ },
+ {
+  "url": "https://legacy.waterworks.example/notices/audit-4031.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 90",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2021
+ },
+ {
+  "url": "https://waterworks.example/notices/audit-3163.pdf",
+  "host": "waterworks.example",
+  "title": "District summary 1",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://waterworks.example/reports/audit-7941.pdf",
+  "host": "waterworks.example",
+  "title": "District audit summary 55",
+  "body": "Prepared for review. Contains the tender totals only.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://waterworks.example/drafts/audit-2259.pdf",
+  "host": "waterworks.example",
+  "title": "District audit summary 44",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/archive/audit-8422.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "District audit summary 45",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/audit-2620.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 86",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://docs.waterworks.example/notices/audit-5423.csv",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 86",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "csv",
+  "year": 2022
+ },
+ {
+  "url": "https://data.waterworks.example/notices/audit-5965.pdf",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 91",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2018
+ },
+ {
+  "url": "https://waterworks.example/open-data/audit-9783.pdf",
+  "host": "waterworks.example",
+  "title": "District summary 15",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://data.waterworks.example/reports/audit-2515.pdf",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 44",
+  "body": "Prepared for review. Contains the tender totals only.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/audit-9170.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 65",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/open-data/audit-9456.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "District audit summary 65",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2025
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/audit-2714.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 88",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://waterworks.example/archive/audit-5132.html",
+  "host": "waterworks.example",
+  "title": "District audit summary 65",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "html",
+  "year": 2023
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/audit-3583.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 58",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2015
+ },
+ {
+  "url": "https://legacy.waterworks.example/open-data/audit-9809.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District summary 26",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://data.waterworks.example/reports/audit-1728.pdf",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 51",
+  "body": "Prepared for review. Contains the tender totals only.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://docs.waterworks.example/drafts/audit-7919.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 47",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/archive/audit-9597.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "District audit summary 98",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2025
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/audit-7696.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 61",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://data.waterworks.example/archive/audit-9706.html",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 42",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "html",
+  "year": 2025
+ },
+ {
+  "url": "https://data.waterworks.example/reports/audit-6885.pdf",
+  "host": "data.waterworks.example",
+  "title": "District audit summary 76",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2017
+ },
+ {
+  "url": "https://legacy.waterworks.example/open-data/audit-9164.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District summary 31",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2025
+ },
+ {
+  "url": "https://legacy.waterworks.example/reports/audit-8304.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 45",
+  "body": "Prepared for review. Contains the tender totals only.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://docs.waterworks.example/drafts/audit-2828.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 53",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/archive/audit-5915.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "District audit summary 77",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/audit-7365.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "District audit summary 83",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://waterworks.example/reports/audit-1435.csv",
+  "host": "waterworks.example",
+  "title": "District audit summary 45",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "csv",
+  "year": 2025
+ },
+ {
+  "url": "https://docs.waterworks.example/archive/audit-1921.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District audit summary 63",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2021
+ },
+ {
+  "url": "https://docs.waterworks.example/archive/audit-8167.pdf",
+  "host": "docs.waterworks.example",
+  "title": "District summary 4",
+  "body": "Prepared for review. Contains the tender evaluation notes for the period.",
+  "filetype": "pdf",
+  "year": 2025
+ },
+ {
+  "url": "https://waterworks.example/reports/audit-8249.pdf",
+  "host": "waterworks.example",
+  "title": "District audit summary 51",
+  "body": "Prepared for review. Contains the tender totals only.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/archive/heritage-5413.html",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Heritage notes 895",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2019
+ },
+ {
+  "url": "https://data.waterworks.example/archive/heritage-7528.pdf",
+  "host": "data.waterworks.example",
+  "title": "Heritage notes 688",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://legacy.waterworks.example/notices/sanitation-3191.xlsx",
+  "host": "legacy.waterworks.example",
+  "title": "Sanitation notes 490",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2024
+ },
+ {
+  "url": "https://data.waterworks.example/archive/budget-6122.html",
+  "host": "data.waterworks.example",
+  "title": "Budget notes 396",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2025
+ },
+ {
+  "url": "https://legacy.waterworks.example/open-data/minutes-1279.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "Minutes notes 829",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2015
+ },
+ {
+  "url": "https://waterworks.example/archive/minutes-5731.pdf",
+  "host": "waterworks.example",
+  "title": "Minutes notes 135",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/sanitation-4576.xlsx",
+  "host": "legacy.waterworks.example",
+  "title": "Sanitation notes 884",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2015
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/open-data/minutes-5976.xlsx",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Minutes notes 472",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2026
+ },
+ {
+  "url": "https://legacy.waterworks.example/notices/roster-4157.html",
+  "host": "legacy.waterworks.example",
+  "title": "Roster notes 118",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2024
+ },
+ {
+  "url": "https://data.waterworks.example/reports/heritage-8162.html",
+  "host": "data.waterworks.example",
+  "title": "Heritage notes 179",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2026
+ },
+ {
+  "url": "https://waterworks.example/drafts/minutes-4985.xlsx",
+  "host": "waterworks.example",
+  "title": "Minutes notes 480",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2022
+ },
+ {
+  "url": "https://data.waterworks.example/notices/budget-9977.html",
+  "host": "data.waterworks.example",
+  "title": "Budget notes 482",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2019
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/drafts/budget-7408.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Budget notes 317",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://data.waterworks.example/drafts/sanitation-7621.xlsx",
+  "host": "data.waterworks.example",
+  "title": "Sanitation notes 323",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2023
+ },
+ {
+  "url": "https://waterworks.example/archive/transport-7276.xlsx",
+  "host": "waterworks.example",
+  "title": "Transport notes 252",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2016
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/notices/sanitation-2094.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Sanitation notes 739",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2020
+ },
+ {
+  "url": "https://data.waterworks.example/reports/roster-8498.csv",
+  "host": "data.waterworks.example",
+  "title": "Roster notes 273",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2018
+ },
+ {
+  "url": "https://waterworks.example/archive/transport-7748.pdf",
+  "host": "waterworks.example",
+  "title": "Transport notes 135",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2018
+ },
+ {
+  "url": "https://data.waterworks.example/reports/roster-1907.html",
+  "host": "data.waterworks.example",
+  "title": "Roster notes 320",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2015
+ },
+ {
+  "url": "https://docs.waterworks.example/reports/budget-4377.csv",
+  "host": "docs.waterworks.example",
+  "title": "Budget notes 691",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2018
+ },
+ {
+  "url": "https://data.waterworks.example/open-data/sanitation-1911.xlsx",
+  "host": "data.waterworks.example",
+  "title": "Sanitation notes 691",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2017
+ },
+ {
+  "url": "https://docs.waterworks.example/archive/minutes-8188.xlsx",
+  "host": "docs.waterworks.example",
+  "title": "Minutes notes 171",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2021
+ },
+ {
+  "url": "https://data.waterworks.example/open-data/transport-3291.pdf",
+  "host": "data.waterworks.example",
+  "title": "Transport notes 485",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2017
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/reports/heritage-8445.csv",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Heritage notes 494",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2017
+ },
+ {
+  "url": "https://docs.waterworks.example/notices/heritage-2017.csv",
+  "host": "docs.waterworks.example",
+  "title": "Heritage notes 234",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2019
+ },
+ {
+  "url": "https://docs.waterworks.example/drafts/minutes-2062.csv",
+  "host": "docs.waterworks.example",
+  "title": "Minutes notes 283",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2021
+ },
+ {
+  "url": "https://data.waterworks.example/drafts/sanitation-3832.pdf",
+  "host": "data.waterworks.example",
+  "title": "Sanitation notes 669",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/archive/roster-1462.html",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Roster notes 888",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2025
+ },
+ {
+  "url": "https://docs.waterworks.example/open-data/transport-2850.xlsx",
+  "host": "docs.waterworks.example",
+  "title": "Transport notes 832",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2019
+ },
+ {
+  "url": "https://legacy.waterworks.example/open-data/transport-9035.xlsx",
+  "host": "legacy.waterworks.example",
+  "title": "Transport notes 320",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2021
+ },
+ {
+  "url": "https://docs.waterworks.example/open-data/roster-7578.pdf",
+  "host": "docs.waterworks.example",
+  "title": "Roster notes 193",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2020
+ },
+ {
+  "url": "https://waterworks.example/open-data/transport-6894.html",
+  "host": "waterworks.example",
+  "title": "Transport notes 555",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2023
+ },
+ {
+  "url": "https://waterworks.example/drafts/heritage-3610.xlsx",
+  "host": "waterworks.example",
+  "title": "Heritage notes 267",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2018
+ },
+ {
+  "url": "https://waterworks.example/drafts/transport-5094.html",
+  "host": "waterworks.example",
+  "title": "Transport notes 895",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2017
+ },
+ {
+  "url": "https://waterworks.example/open-data/sanitation-5083.html",
+  "host": "waterworks.example",
+  "title": "Sanitation notes 14",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2017
+ },
+ {
+  "url": "https://waterworks.example/open-data/transport-5119.xlsx",
+  "host": "waterworks.example",
+  "title": "Transport notes 66",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2016
+ },
+ {
+  "url": "https://data.waterworks.example/notices/roster-9653.xlsx",
+  "host": "data.waterworks.example",
+  "title": "Roster notes 861",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2021
+ },
+ {
+  "url": "https://legacy.waterworks.example/notices/transport-7297.xlsx",
+  "host": "legacy.waterworks.example",
+  "title": "Transport notes 488",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2026
+ },
+ {
+  "url": "https://waterworks.example/open-data/sanitation-4709.xlsx",
+  "host": "waterworks.example",
+  "title": "Sanitation notes 266",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2018
+ },
+ {
+  "url": "https://waterworks.example/archive/heritage-7426.csv",
+  "host": "waterworks.example",
+  "title": "Heritage notes 373",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2026
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/archive/budget-6687.xlsx",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Budget notes 450",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2019
+ },
+ {
+  "url": "https://docs.waterworks.example/reports/sanitation-1811.csv",
+  "host": "docs.waterworks.example",
+  "title": "Sanitation notes 224",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2022
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/drafts/budget-2456.xlsx",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Budget notes 531",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2016
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/roster-6969.html",
+  "host": "legacy.waterworks.example",
+  "title": "Roster notes 535",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2015
+ },
+ {
+  "url": "https://docs.waterworks.example/drafts/minutes-3094.html",
+  "host": "docs.waterworks.example",
+  "title": "Minutes notes 795",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2015
+ },
+ {
+  "url": "https://docs.waterworks.example/open-data/budget-8894.pdf",
+  "host": "docs.waterworks.example",
+  "title": "Budget notes 260",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://waterworks.example/reports/budget-1211.html",
+  "host": "waterworks.example",
+  "title": "Budget notes 41",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2024
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/drafts/minutes-9084.xlsx",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Minutes notes 346",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2026
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/drafts/roster-1488.html",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Roster notes 732",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2023
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/reports/sanitation-6945.xlsx",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Sanitation notes 594",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2016
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/transport-1405.csv",
+  "host": "legacy.waterworks.example",
+  "title": "Transport notes 513",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2015
+ },
+ {
+  "url": "https://docs.waterworks.example/reports/heritage-9172.csv",
+  "host": "docs.waterworks.example",
+  "title": "Heritage notes 169",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2022
+ },
+ {
+  "url": "https://waterworks.example/open-data/roster-1415.html",
+  "host": "waterworks.example",
+  "title": "Roster notes 154",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2025
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/drafts/transport-3350.html",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Transport notes 304",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2020
+ },
+ {
+  "url": "https://waterworks.example/drafts/budget-6915.csv",
+  "host": "waterworks.example",
+  "title": "Budget notes 400",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2025
+ },
+ {
+  "url": "https://docs.waterworks.example/open-data/roster-2185.csv",
+  "host": "docs.waterworks.example",
+  "title": "Roster notes 371",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2023
+ },
+ {
+  "url": "https://docs.waterworks.example/open-data/heritage-4195.csv",
+  "host": "docs.waterworks.example",
+  "title": "Heritage notes 473",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2025
+ },
+ {
+  "url": "https://docs.waterworks.example/drafts/minutes-7296.xlsx",
+  "host": "docs.waterworks.example",
+  "title": "Minutes notes 576",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2022
+ },
+ {
+  "url": "https://waterworks.example/archive/minutes-1196.html",
+  "host": "waterworks.example",
+  "title": "Minutes notes 895",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2019
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/roster-6237.xlsx",
+  "host": "legacy.waterworks.example",
+  "title": "Roster notes 34",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2019
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/reports/minutes-6920.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Minutes notes 574",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2015
+ },
+ {
+  "url": "https://data.waterworks.example/reports/heritage-4373.csv",
+  "host": "data.waterworks.example",
+  "title": "Heritage notes 709",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2020
+ },
+ {
+  "url": "https://waterworks.example/drafts/transport-7271.csv",
+  "host": "waterworks.example",
+  "title": "Transport notes 335",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2016
+ },
+ {
+  "url": "https://legacy.waterworks.example/notices/budget-1465.csv",
+  "host": "legacy.waterworks.example",
+  "title": "Budget notes 752",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2018
+ },
+ {
+  "url": "https://docs.waterworks.example/open-data/transport-7414.xlsx",
+  "host": "docs.waterworks.example",
+  "title": "Transport notes 730",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2016
+ },
+ {
+  "url": "https://data.waterworks.example/notices/roster-4363.xlsx",
+  "host": "data.waterworks.example",
+  "title": "Roster notes 889",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2017
+ },
+ {
+  "url": "https://waterworks.example/reports/roster-4866.csv",
+  "host": "waterworks.example",
+  "title": "Roster notes 330",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2025
+ },
+ {
+  "url": "https://data.waterworks.example/open-data/transport-9278.pdf",
+  "host": "data.waterworks.example",
+  "title": "Transport notes 60",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2020
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/drafts/transport-7471.xlsx",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Transport notes 634",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2017
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/budget-7039.csv",
+  "host": "legacy.waterworks.example",
+  "title": "Budget notes 855",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2020
+ },
+ {
+  "url": "https://data.waterworks.example/archive/roster-5330.csv",
+  "host": "data.waterworks.example",
+  "title": "Roster notes 528",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2017
+ },
+ {
+  "url": "https://data.waterworks.example/reports/sanitation-1825.html",
+  "host": "data.waterworks.example",
+  "title": "Sanitation notes 319",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2022
+ },
+ {
+  "url": "https://data.waterworks.example/open-data/minutes-7774.html",
+  "host": "data.waterworks.example",
+  "title": "Minutes notes 164",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2025
+ },
+ {
+  "url": "https://legacy.waterworks.example/open-data/budget-3873.html",
+  "host": "legacy.waterworks.example",
+  "title": "Budget notes 636",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2023
+ },
+ {
+  "url": "https://waterworks.example/drafts/transport-1467.pdf",
+  "host": "waterworks.example",
+  "title": "Transport notes 341",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2016
+ },
+ {
+  "url": "https://waterworks.example/notices/transport-8249.xlsx",
+  "host": "waterworks.example",
+  "title": "Transport notes 518",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2015
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/transport-7660.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "Transport notes 693",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2023
+ },
+ {
+  "url": "https://waterworks.example/notices/roster-5589.pdf",
+  "host": "waterworks.example",
+  "title": "Roster notes 616",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/transport-8784.xlsx",
+  "host": "legacy.waterworks.example",
+  "title": "Transport notes 791",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2023
+ },
+ {
+  "url": "https://docs.waterworks.example/archive/roster-7632.html",
+  "host": "docs.waterworks.example",
+  "title": "Roster notes 713",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2020
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/sanitation-4916.csv",
+  "host": "legacy.waterworks.example",
+  "title": "Sanitation notes 168",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2026
+ },
+ {
+  "url": "https://data.waterworks.example/drafts/transport-9025.pdf",
+  "host": "data.waterworks.example",
+  "title": "Transport notes 307",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2018
+ },
+ {
+  "url": "https://legacy.waterworks.example/drafts/budget-7116.csv",
+  "host": "legacy.waterworks.example",
+  "title": "Budget notes 328",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2024
+ },
+ {
+  "url": "https://data.waterworks.example/open-data/transport-1601.xlsx",
+  "host": "data.waterworks.example",
+  "title": "Transport notes 814",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2019
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/transport-5012.xlsx",
+  "host": "legacy.waterworks.example",
+  "title": "Transport notes 415",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2019
+ },
+ {
+  "url": "https://waterworks.example/drafts/heritage-7935.pdf",
+  "host": "waterworks.example",
+  "title": "Heritage notes 341",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2022
+ },
+ {
+  "url": "https://legacy.waterworks.example/reports/heritage-6390.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "Heritage notes 460",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2021
+ },
+ {
+  "url": "https://docs.waterworks.example/open-data/sanitation-4436.csv",
+  "host": "docs.waterworks.example",
+  "title": "Sanitation notes 811",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2015
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/archive/roster-7573.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Roster notes 574",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2024
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/budget-6549.html",
+  "host": "legacy.waterworks.example",
+  "title": "Budget notes 306",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2018
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/notices/roster-7972.xlsx",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Roster notes 97",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "xlsx",
+  "year": 2026
+ },
+ {
+  "url": "https://data.waterworks.example/notices/sanitation-5834.html",
+  "host": "data.waterworks.example",
+  "title": "Sanitation notes 381",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2015
+ },
+ {
+  "url": "https://data.waterworks.example/open-data/roster-2516.html",
+  "host": "data.waterworks.example",
+  "title": "Roster notes 362",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2020
+ },
+ {
+  "url": "https://waterworks.example/notices/sanitation-8674.pdf",
+  "host": "waterworks.example",
+  "title": "Sanitation notes 340",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2019
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/drafts/budget-9031.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Budget notes 732",
+  "body": "Routine budget record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2015
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/reports/minutes-5225.csv",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Minutes notes 447",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2025
+ },
+ {
+  "url": "https://legacy.waterworks.example/reports/heritage-5282.csv",
+  "host": "legacy.waterworks.example",
+  "title": "Heritage notes 348",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2018
+ },
+ {
+  "url": "https://docs.waterworks.example/drafts/minutes-8736.html",
+  "host": "docs.waterworks.example",
+  "title": "Minutes notes 266",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2026
+ },
+ {
+  "url": "https://legacy.waterworks.example/archive/roster-6744.csv",
+  "host": "legacy.waterworks.example",
+  "title": "Roster notes 846",
+  "body": "Routine roster record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2020
+ },
+ {
+  "url": "https://docs.waterworks.example/notices/minutes-2174.html",
+  "host": "docs.waterworks.example",
+  "title": "Minutes notes 763",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2015
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/reports/sanitation-7410.html",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Sanitation notes 897",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2015
+ },
+ {
+  "url": "https://data.waterworks.example/drafts/minutes-2826.html",
+  "host": "data.waterworks.example",
+  "title": "Minutes notes 177",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2023
+ },
+ {
+  "url": "https://data.waterworks.example/drafts/minutes-1322.csv",
+  "host": "data.waterworks.example",
+  "title": "Minutes notes 809",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2023
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/open-data/transport-6729.csv",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Transport notes 289",
+  "body": "Routine transport record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2025
+ },
+ {
+  "url": "https://docs.waterworks.example/archive/heritage-7618.csv",
+  "host": "docs.waterworks.example",
+  "title": "Heritage notes 88",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "csv",
+  "year": 2024
+ },
+ {
+  "url": "https://data.waterworks.example/drafts/minutes-7582.html",
+  "host": "data.waterworks.example",
+  "title": "Minutes notes 775",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2018
+ },
+ {
+  "url": "https://waterworks.example/reports/heritage-3842.html",
+  "host": "waterworks.example",
+  "title": "Heritage notes 669",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2019
+ },
+ {
+  "url": "https://legacy.waterworks.example/reports/sanitation-1733.pdf",
+  "host": "legacy.waterworks.example",
+  "title": "Sanitation notes 27",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2019
+ },
+ {
+  "url": "https://legacy.waterworks.example/notices/heritage-5350.html",
+  "host": "legacy.waterworks.example",
+  "title": "Heritage notes 640",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2016
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/notices/heritage-4319.pdf",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Heritage notes 599",
+  "body": "Routine heritage record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2025
+ },
+ {
+  "url": "https://data.waterworks.example/reports/sanitation-5841.pdf",
+  "host": "data.waterworks.example",
+  "title": "Sanitation notes 897",
+  "body": "Routine sanitation record. No audit content in this document.",
+  "filetype": "pdf",
+  "year": 2026
+ },
+ {
+  "url": "https://mirror.waterworks-cdn.example/drafts/minutes-7348.html",
+  "host": "mirror.waterworks-cdn.example",
+  "title": "Minutes notes 9",
+  "body": "Routine minutes record. No audit content in this document.",
+  "filetype": "html",
+  "year": 2023
+ }
+]
