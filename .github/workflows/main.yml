@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: pip install fastapi uvicorn httpx
 
-      - name: TDS identity: 24f1000086@ds.study.iitm.ac.in
+      - name: "TDS identity: 24f1000086@ds.study.iitm.ac.in"
         run: echo "Verified"
 
       - name: Test endpoint
