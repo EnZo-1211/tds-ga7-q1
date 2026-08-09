@@ -25,9 +25,10 @@ jobs:
 
       - name: Test endpoint
         run: |
-          uvicorn main:app --host 127.0.0.1 --port 8000 &
+          python -m uvicorn main:app --host 127.0.0.1 --port 8000 > server.log 2>&1 &
           sleep 5
-          curl -s -X POST http://127.0.0.1:8000/q1/release-gate \
+          cat server.log
+          RESPONSE=$(curl -s -X POST http://127.0.0.1:8000/q1/release-gate \
           -H "Content-Type: application/json" \
           -d '{
             "target": "preview",
@@ -43,4 +44,12 @@ jobs:
               "multiStage": true, "runsAsRoot": false, "secretMode": "none",
               "criticalVulnerabilities": 0, "digestPinned": true
             }
-          }' | grep promote
+          }')
+          echo "Response: $RESPONSE"
+          if echo "$RESPONSE" | grep -q 'promote'; then
+            echo "Success!"
+            exit 0
+          else
+            echo "Failed to get promote decision."
+            exit 1
+          fi
